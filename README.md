@@ -55,6 +55,9 @@ Single_Tier_Python_DevOps_Application/
 
 ---------------------------------------------------------------🧰 Setup Instructions------------------------------------------------------
 
+
+
+
 ### 1️⃣ Install Prerequisites on CentOS
 commands : 
 sudo yum update -y
